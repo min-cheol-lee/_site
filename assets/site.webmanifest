@@ -4,7 +4,7 @@
   "short_name": "Min-Cheol Lee",
   "description": "",
   "start_url": "/?utm_source=homescreen",
-  "theme_color": "rgb(50,50,50)",
+  "theme_color": "rgb(0,50,100)",
   "background_color": "#fff",
   "orientation": "portrait",
   "display": "minimal-ui",
